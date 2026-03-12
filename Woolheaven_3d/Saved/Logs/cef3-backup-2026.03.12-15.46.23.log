@@ -1,0 +1,8 @@
+[8452:20268:0312/100837.499:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8452:20268:0312/100837.533:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[8452:13124:0312/100837.578:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[8452:20268:0312/100837.617:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8452:20268:0312/100841.016:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[8280:12776:0312/100841.951:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-79A857C826B08854161A5E8B74218AF5 will be ignored
+[8452:20268:0312/103025.178:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8452:20268:0312/104225.546:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
