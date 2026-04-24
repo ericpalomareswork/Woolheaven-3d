@@ -1,0 +1,31 @@
+[18680:29800:0420/102607.674:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18680:31928:0420/102607.757:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[18680:29800:0420/102607.807:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18680:29800:0420/102611.361:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[5224:41608:0420/102612.843:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-86B3FE17CDBC8DDC58F7C0A3E2CA99D8 will be ignored
+[18680:29800:0420/105655.970:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/105700.640:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/105715.977:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/105720.984:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/105725.984:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/105735.986:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/105740.986:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/105745.986:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/111902.497:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/111927.509:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/112047.526:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/112517.597:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/112522.599:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/112627.625:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/112918.010:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/112928.013:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/112948.015:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/113008.024:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/113013.025:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/113033.363:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/113038.364:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/113103.369:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18680:29800:0420/120450.053:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1012:11968:0420/120744.954:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1012:11968:0420/120744.974:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[18680:29800:0420/130530.696:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
