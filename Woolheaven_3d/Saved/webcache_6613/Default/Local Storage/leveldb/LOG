@@ -1,3 +1,6 @@
-2026/04/27-11:36:31.108 1f78 Reusing MANIFEST C:\Users\ericp\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/27-11:36:31.114 1f78 Recovering log #17
-2026/04/27-11:36:31.117 1f78 Reusing old log C:\Users\ericp\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\Local Storage\leveldb/000017.log 
+2026/04/27-18:46:33.003 4148 Reusing MANIFEST C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/27-18:46:33.013 4148 Recovering log #37
+2026/04/27-18:46:33.016 4148 Reusing old log C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\Local Storage\leveldb/000037.log 
+2026/04/27-18:52:58.103 113c Level-0 table #41: started
+2026/04/27-18:52:58.109 113c Level-0 table #41: 63813 bytes OK
+2026/04/27-18:52:58.111 113c Delete type=0 #37
