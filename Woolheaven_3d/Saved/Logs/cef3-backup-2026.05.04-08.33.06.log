@@ -1,0 +1,15 @@
+[31992:10844:0504/102907.303:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[31992:10844:0504/102907.360:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[31992:33080:0504/102907.410:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[31992:10844:0504/102907.469:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[31992:10844:0504/102912.414:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[26124:33200:0504/102913.611:ERROR:backend_impl.cc(989)] Critical error found -8
+[26124:33200:0504/102913.611:ERROR:entry_impl.cc(1029)] No file for b2020024
+[26124:33200:0504/102913.613:WARNING:storage_block-inl.h(138)] Failed data load.
+[26124:9444:0504/102934.201:WARNING:cache_util.cc(144)] Unable to delete cache folder.
+[31992:10844:0504/103305.925:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/
+[31992:10844:0504/103306.257:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=1073807364
+[31992:10844:0504/103306.257:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
+[31992:10844:0504/103306.588:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[31992:10844:0504/103306.588:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 2 time(s)
+[31992:10844:0504/103306.589:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
