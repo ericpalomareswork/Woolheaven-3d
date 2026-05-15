@@ -1,77 +1,18 @@
-[21744:3952:0511/103327.184:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[21744:20416:0511/103327.431:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[21744:3952:0511/103327.540:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[21744:3952:0511/103334.772:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[14768:12540:0511/103451.693:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-29420CF1AE20F0DD91E641D8B67DB847 will be ignored
-[15392:1460:0511/103553.865:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame A-C4285FE36BA98213655F0574E7E7347B will be ignored
-[15796:14152:0511/103801.088:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame D-5B1856E6E371A109A839B42D0230C49A will be ignored
-[21744:3952:0511/111436.913:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
-[21744:3952:0511/111436.913:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
-[4000:2104:0511/113437.624:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame F-D2A38B02206665551AEEDB5D6F99AA73 will be ignored
-[21744:3952:0511/114522.448:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21744:3952:0511/114527.448:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21744:3952:0511/115913.858:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21744:3952:0511/115923.862:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21744:3952:0511/115928.868:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21744:3952:0511/115933.868:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21744:3952:0511/115948.869:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21744:3952:0511/121015.904:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21744:3952:0511/121020.907:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21744:3952:0511/121025.911:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21744:3952:0511/121030.914:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21744:3952:0511/121035.932:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21744:3952:0511/121050.994:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14696:20784:0511/121618.179:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[21744:20416:0511/121618.229:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[21744:20416:0511/121933.346:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[14696:9852:0511/121933.786:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[21744:13436:0511/121943.349:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[14696:12256:0511/121943.804:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[21744:13436:0511/122003.353:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[14696:12256:0511/122003.805:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[21744:13436:0511/122021.322:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[14696:12256:0511/122021.323:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[14696:20784:0511/122021.393:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[14696:9668:0511/122021.469:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122021.469:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122021.478:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122021.478:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122022.695:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122022.699:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122022.703:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122022.703:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122022.703:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122022.705:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122022.707:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122022.708:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122022.711:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122022.711:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122022.711:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122022.718:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122024.048:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122024.050:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122024.050:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122024.050:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122024.050:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122024.050:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122024.084:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122024.086:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122024.086:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122024.086:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122024.086:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122024.086:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122024.102:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122025.811:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122025.811:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122025.811:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122025.822:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122025.822:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122025.822:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122028.443:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122028.453:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122028.503:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122028.508:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122028.669:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122028.686:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14696:9668:0511/122307.842:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 9
-[14696:9668:0511/122551.045:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 13
+[22640:24088:0515/093919.442:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22640:24088:0515/093919.457:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[22640:3808:0515/093919.484:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[22640:24088:0515/093919.509:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22640:24088:0515/093922.269:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[22640:19480:0515/093922.270:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[22640:400:0515/093922.274:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[22640:400:0515/093922.278:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[22640:400:0515/093922.280:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[22640:3808:0515/093922.915:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[22640:3808:0515/093922.925:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14788:20944:0515/093922.950:ERROR:backend_impl.cc(989)] Critical error found -8
+[14788:20944:0515/093922.950:ERROR:entry_impl.cc(1029)] No file for b2020028
+[14788:20944:0515/093922.953:WARNING:storage_block-inl.h(138)] Failed data load.
+[13492:16896:0515/093923.846:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0E5DFF8322AAA9AA1B9C566606A30CBB will be ignored
+[22640:4476:0515/093928.297:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[22640:24088:0515/093928.519:ERROR:device_event_log_impl.cc(196)] [09:39:28.204] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[22640:24088:0515/093950.836:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
