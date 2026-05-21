@@ -1,70 +1,9 @@
-2026/05/18-11:36:21.744 483c Reusing MANIFEST C:\Users\ericp\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/18-11:36:21.749 483c Recovering log #4
-2026/05/18-11:36:21.750 483c Level-0 table #7: started
-2026/05/18-11:36:21.757 483c Level-0 table #7: 64185 bytes OK
-2026/05/18-11:36:21.757 483c Recovering log #7
-2026/05/18-11:36:21.760 483c Reusing old log C:\Users\ericp\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\Local Storage\leveldb/000007.log 
-2026/05/18-11:36:21.767 483c Delete type=0 #4
-2026/05/18-11:36:21.767 483c Delete type=2 #8
-2026/05/18-11:46:40.684 674 Level-0 table #9: started
-2026/05/18-11:46:40.691 674 Level-0 table #9: 64570 bytes OK
-2026/05/18-11:46:40.700 674 Delete type=0 #7
-2026/05/18-11:49:11.217 674 Level-0 table #11: started
-2026/05/18-11:49:11.224 674 Level-0 table #11: 68478 bytes OK
-2026/05/18-11:49:11.230 674 Delete type=0 #8
-2026/05/18-11:49:30.224 674 Level-0 table #13: started
-2026/05/18-11:49:30.230 674 Level-0 table #13: 79514 bytes OK
-2026/05/18-11:49:30.235 674 Delete type=0 #10
-2026/05/18-11:49:30.238 674 Compacting 4@0 + 0@1 files
-2026/05/18-11:49:30.244 674 Generated table #14@0: 8 keys, 28458 bytes
-2026/05/18-11:49:30.244 674 Compacted 4@0 + 0@1 files => 28458 bytes
-2026/05/18-11:49:30.247 674 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/18-11:49:30.248 674 Delete type=2 #7
-2026/05/18-11:49:30.248 674 Delete type=2 #9
-2026/05/18-11:49:30.248 674 Delete type=2 #11
-2026/05/18-11:49:30.248 674 Delete type=2 #13
-2026/05/18-11:49:46.205 674 Level-0 table #16: started
-2026/05/18-11:49:46.212 674 Level-0 table #16: 80174 bytes OK
-2026/05/18-11:49:46.215 674 Delete type=0 #12
-2026/05/18-11:50:26.602 674 Level-0 table #18: started
-2026/05/18-11:50:26.609 674 Level-0 table #18: 72587 bytes OK
-2026/05/18-11:50:26.612 674 Delete type=0 #15
-2026/05/18-11:53:26.607 674 Level-0 table #20: started
-2026/05/18-11:53:26.619 674 Level-0 table #20: 71002 bytes OK
-2026/05/18-11:53:26.622 674 Delete type=0 #17
-2026/05/18-12:05:06.253 483c Level-0 table #22: started
-2026/05/18-12:05:06.270 483c Level-0 table #22: 72590 bytes OK
-2026/05/18-12:05:06.276 483c Delete type=0 #19
-2026/05/18-12:05:06.279 483c Compacting 4@0 + 1@1 files
-2026/05/18-12:05:06.286 483c Generated table #23@0: 8 keys, 25478 bytes
-2026/05/18-12:05:06.286 483c Compacted 4@0 + 1@1 files => 25478 bytes
-2026/05/18-12:05:06.290 483c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/18-12:05:06.291 483c Delete type=2 #14
-2026/05/18-12:05:06.291 483c Delete type=2 #16
-2026/05/18-12:05:06.291 483c Delete type=2 #18
-2026/05/18-12:05:06.291 483c Delete type=2 #20
-2026/05/18-12:05:06.291 483c Delete type=2 #22
-2026/05/18-12:05:23.546 674 Level-0 table #25: started
-2026/05/18-12:05:23.552 674 Level-0 table #25: 74170 bytes OK
-2026/05/18-12:05:23.555 674 Delete type=0 #21
-2026/05/18-12:05:39.259 674 Level-0 table #27: started
-2026/05/18-12:05:39.267 674 Level-0 table #27: 74578 bytes OK
-2026/05/18-12:05:39.270 674 Delete type=0 #24
-2026/05/18-12:05:54.917 674 Level-0 table #29: started
-2026/05/18-12:05:54.930 674 Level-0 table #29: 74922 bytes OK
-2026/05/18-12:05:54.933 674 Delete type=0 #26
-2026/05/18-12:08:26.605 674 Level-0 table #31: started
-2026/05/18-12:08:26.615 674 Level-0 table #31: 72990 bytes OK
-2026/05/18-12:08:26.621 674 Delete type=0 #28
-2026/05/18-12:08:26.625 674 Compacting 4@0 + 1@1 files
-2026/05/18-12:08:26.633 674 Generated table #32@0: 8 keys, 24922 bytes
-2026/05/18-12:08:26.633 674 Compacted 4@0 + 1@1 files => 24922 bytes
-2026/05/18-12:08:26.635 674 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/18-12:08:26.637 674 Delete type=2 #23
-2026/05/18-12:08:26.637 674 Delete type=2 #25
-2026/05/18-12:08:26.637 674 Delete type=2 #27
-2026/05/18-12:08:26.637 674 Delete type=2 #29
-2026/05/18-12:08:26.637 674 Delete type=2 #31
-2026/05/18-12:11:26.613 674 Level-0 table #34: started
-2026/05/18-12:11:26.620 674 Level-0 table #34: 72112 bytes OK
-2026/05/18-12:11:26.623 674 Delete type=0 #30
+2026/05/18-18:48:13.067 1fd0 Reusing MANIFEST C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/18-18:48:13.085 1fd0 Recovering log #33
+2026/05/18-18:48:13.088 1fd0 Reusing old log C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\Local Storage\leveldb/000033.log 
+2026/05/18-18:51:20.506 43a4 Level-0 table #37: started
+2026/05/18-18:51:20.513 43a4 Level-0 table #37: 77334 bytes OK
+2026/05/18-18:51:20.517 43a4 Delete type=0 #33
+2026/05/18-18:54:40.077 43a4 Level-0 table #39: started
+2026/05/18-18:54:40.083 43a4 Level-0 table #39: 78258 bytes OK
+2026/05/18-18:54:40.086 43a4 Delete type=0 #36
