@@ -1,9 +1,21 @@
-2026/05/18-18:48:13.067 1fd0 Reusing MANIFEST C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/18-18:48:13.085 1fd0 Recovering log #33
-2026/05/18-18:48:13.088 1fd0 Reusing old log C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\Local Storage\leveldb/000033.log 
-2026/05/18-18:51:20.506 43a4 Level-0 table #37: started
-2026/05/18-18:51:20.513 43a4 Level-0 table #37: 77334 bytes OK
-2026/05/18-18:51:20.517 43a4 Delete type=0 #33
-2026/05/18-18:54:40.077 43a4 Level-0 table #39: started
-2026/05/18-18:54:40.083 43a4 Level-0 table #39: 78258 bytes OK
-2026/05/18-18:54:40.086 43a4 Delete type=0 #36
+2026/05/21-18:31:00.159 2448 Reusing MANIFEST C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/21-18:31:00.177 2448 Recovering log #38
+2026/05/21-18:31:00.181 2448 Reusing old log C:\Users\Eric\Documents\GitHub\Woolheaven-3d\Woolheaven_3d\Saved\webcache_6613\Default\Local Storage\leveldb/000038.log 
+2026/05/21-18:33:10.653 5840 Level-0 table #42: started
+2026/05/21-18:33:10.715 5840 Level-0 table #42: 82830 bytes OK
+2026/05/21-18:33:10.740 5840 Delete type=0 #38
+2026/05/21-18:33:10.741 5840 Compacting 4@0 + 1@1 files
+2026/05/21-18:33:10.752 5840 Generated table #43@0: 8 keys, 28354 bytes
+2026/05/21-18:33:10.752 5840 Compacted 4@0 + 1@1 files => 28354 bytes
+2026/05/21-18:33:10.789 5840 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/21-18:33:10.791 5840 Delete type=2 #32
+2026/05/21-18:33:10.791 5840 Delete type=2 #34
+2026/05/21-18:33:10.791 5840 Delete type=2 #37
+2026/05/21-18:33:10.791 5840 Delete type=2 #39
+2026/05/21-18:33:10.791 5840 Delete type=2 #42
+2026/05/21-18:36:10.646 5840 Level-0 table #45: started
+2026/05/21-18:36:10.655 5840 Level-0 table #45: 73222 bytes OK
+2026/05/21-18:36:10.660 5840 Delete type=0 #41
+2026/05/21-18:39:10.644 5840 Level-0 table #47: started
+2026/05/21-18:39:10.654 5840 Level-0 table #47: 70858 bytes OK
+2026/05/21-18:39:10.659 5840 Delete type=0 #44
